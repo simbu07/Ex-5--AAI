@@ -4,6 +4,7 @@
 <H4>DATE:08/03/2024</H4
                     
 ### Aim:
+
 To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 
 ## Algorithm:
