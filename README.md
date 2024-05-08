@@ -1,7 +1,7 @@
 <H1 ALIGN =CENTER>Ex-5 Implementation of Kalman Filter</H1>
-<H4>NAME:Silambarasan K</H4>
-<H4>REGISTER NO:212221230101</H4>
-<H4>DATE:24/3/24</H4
+<H4>NAME : Silambarasan K</H4>
+<H4>REGISTER NO : 212221230101</H4>
+<H4>DATE:08/03/2024</H4
                     
 ### Aim:
 To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
